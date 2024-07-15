@@ -5,4 +5,5 @@ Adds an alternative vector storage using ChromaDB. Requires an Extras API chroma
 THE USE OF THIS PLUGIN DOESN'T GUARANTEE A BETTER CHATTING EXPERIENCE OR IMPROVED MEMORY OF ANY SORT. ONLY USE IF YOU UNDERSTAND ALL THE IMPLICATIONS OF VECTOR DATABASE UTILIZATION.
 !!!
 
-Documentation: https://docs.sillytavern.app/extras/extensions/smart-context/
+Documentation: [https://docs.sillytavern.app/extras/extensions/smart-context/](https://docs.sillytavern.app/extensions/smart-context/)
+
